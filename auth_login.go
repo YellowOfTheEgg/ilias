@@ -8,7 +8,7 @@ import (
 )
 
 const (
-	loginPath string = "ilias.php?lang=de&client_id=UniRZ&cmd=post&cmdClass=ilstartupgui&cmdNode=11g&baseClass=ilStartUpGUI&rtoken="
+	loginPath string = "ilias.php?lang=de&client_id=UniRZ&cmd=post&cmdClass=ilstartupgui&cmdNode=112g&baseClass=ilStartUpGUI&rtoken="
 )
 
 func (auth *AuthService) Login(username string, password string) (*User, error) {
