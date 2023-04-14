@@ -8,7 +8,7 @@ import (
 )
 
 const (
-	memberListPath string = "ilias.php?cmdClass=ilcoursemembershipgui&cmdNode=xv:mt:95&baseClass=ilrepositorygui"
+	memberListPath string = "ilias.php?cmdClass=ilcoursemembershipgui&cmdNode=y4:n0:97&baseClass=ilrepositorygui"
 )
 
 type MemberParams struct {
